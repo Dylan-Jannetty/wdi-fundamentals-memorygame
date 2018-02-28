@@ -53,12 +53,13 @@ nav{
 	padding: 20px 0;
 }
 
-main{
+
+main {
 	width: 850px;
 	margin: 35px auto;
 }
 
-img{
+img {
 	margin: 40px 8px;
 }
 
@@ -71,7 +72,7 @@ footer {
 	font-weight: 500;
 }
 
-footer p{
+footer p {
 	font-family: "Raleway", sans-serif;
 }
 
@@ -97,7 +98,7 @@ font-size: 0;
 	font-weight: 700;
 }
 
-a:hover {
+nav a:hover {
 	border-color: white;
 }
 
